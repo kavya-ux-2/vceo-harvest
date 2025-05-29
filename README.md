@@ -1,4 +1,4 @@
-#Previwe website
+#Preview website
 https://veco-harvest.vercel.app/
 
 # Getting Started with Create React App
