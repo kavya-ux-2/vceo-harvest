@@ -1,6 +1,13 @@
 #Preview website
+
 https://veco-harvest.vercel.app/
 
+#ScreenShots of website
+![image alt](https://github.com/kavya-ux-2/vceo-harvest/blob/9d415c1fcf7948441074b3d97bfed273a9ad7c8d/veco-harvest.vercel.app_.png)
+
+![image alt](https://github.com/kavya-ux-2/vceo-harvest/blob/9d415c1fcf7948441074b3d97bfed273a9ad7c8d/veco-harvest.vercel.app_dashboard.png)
+
+![image alt](https://github.com/kavya-ux-2/vceo-harvest/blob/9d415c1fcf7948441074b3d97bfed273a9ad7c8d/veco-harvest.vercel.app_sell.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
